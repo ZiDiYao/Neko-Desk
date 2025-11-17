@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class IdleState
+public class IdleState : ICatState
 {
     
 }
